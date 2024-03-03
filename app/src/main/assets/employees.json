@@ -1,0 +1,39 @@
+
+   [
+    {
+      "employeeId": "1",
+      "name": "Aman Singh",
+      "DOB": "1990-01-01",
+      "Role": "Software Engineer"
+    },
+    {
+      "employeeId": "2",
+      "name": "Kamlesh seervi",
+      "DOB": "1995-02-15",
+      "Role": "Marketing Manager"
+    },
+    {
+      "employeeId": "3",
+      "name": "Akash Kumar",
+      "DOB": "1988-12-24",
+      "Role": "Human Resources"
+    },
+    {
+      "employeeId": "4",
+      "name": "Amit Kumar",
+      "DOB": "1988-12-24",
+      "Role": "UI Designer"
+    },
+    {
+      "employeeId": "5",
+      "name": "Shashi Kant",
+      "DOB": "1988-12-24",
+      "Role": "Software Engineer"
+    },
+    {
+      "employeeId": "6",
+      "name": "Abhishek Kumar",
+      "DOB": "1988-12-24",
+      "Role": "Web Developer"
+    }
+  ]
